@@ -1,0 +1,15 @@
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\Shop.DAL.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\Shop.DAL.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\Shop.DAL.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\EntityFramework.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\Step.Repository.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\Step.Repository.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\Step.Repository.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\EntityFramework.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Release\Shop.DAL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Release\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Release\Shop.DAL.csproj.CopyComplete
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Release\Shop.DAL.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Release\Shop.DAL.pdb

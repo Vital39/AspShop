@@ -1,0 +1,35 @@
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\obj\Debug\Step.Repository.dll
+C:\asp.net\Lesson 15 3-tier application 1\RegionCity\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\obj\Debug\Step.Repository.csprojAssemblyReference.cache
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\obj\Debug\Step.Repository.dll
+C:\asp.net\Lesson 15 3-tier linqkit\RegionCity\Step.Repository\obj\Debug\Step.Repository.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\bin\Debug\Step.Repository.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\bin\Debug\Step.Repository.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\bin\Debug\Step.Repository.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\obj\Debug\Step.Repository.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\obj\Debug\Step.Repository.csproj.CopyComplete
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\obj\Debug\Step.Repository.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Step.Repository\obj\Debug\Step.Repository.pdb

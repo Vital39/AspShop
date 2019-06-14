@@ -1,0 +1,59 @@
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\Shop.DAL.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\Step.Repository.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csprojAssemblyReference.cache
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.csproj.CopyComplete
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.DAL\obj\Debug\Shop.DAL.pdb

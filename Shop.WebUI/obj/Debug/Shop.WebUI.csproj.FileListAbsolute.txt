@@ -1,0 +1,294 @@
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csprojAssemblyReference.cache
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.WebUI.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.WebUI.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.WebUI.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csc.exe
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csc.exe.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csc.rsp
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csi.exe
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csi.exe.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csi.rsp
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.AppContext.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Console.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\vbc.exe
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\vbc.exe.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\vbc.rsp
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.Integration.Mvc.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\LinqKit.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.BLL.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Helpers.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Mvc.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Razor.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Step.Repository.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.DAL.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.ValueTuple.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.BLL.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.BLL.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.Integration.Mvc.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\LinqKit.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Razor.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Helpers.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Mvc.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Step.Repository.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Step.Repository.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.DAL.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.DAL.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.ValueTuple.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csproj.CopyComplete
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.WebUI.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.WebUI.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.WebUI.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csc.exe
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csc.exe.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csc.rsp
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csi.exe
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csi.exe.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\csi.rsp
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.AppContext.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Console.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\vbc.exe
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\vbc.exe.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\vbc.rsp
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.Integration.Mvc.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\LinqKit.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.BLL.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Helpers.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Mvc.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Razor.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Step.Repository.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.DAL.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.ValueTuple.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.BLL.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.BLL.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Autofac.Integration.Mvc.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\LinqKit.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Razor.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Helpers.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.Web.Mvc.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Step.Repository.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Step.Repository.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.DAL.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\Shop.DAL.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\bin\System.ValueTuple.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csprojAssemblyReference.cache
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csproj.CoreCompileInputs.cache
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csproj.CopyComplete
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.WebUI.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.WebUI.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.WebUI.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\csc.exe
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\csc.exe.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\csc.rsp
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\csi.exe
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\csi.exe.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\csi.rsp
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Console.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\vbc.exe
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\vbc.rsp
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Autofac.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Autofac.Integration.Mvc.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\EntityFramework.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\LinqKit.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.BLL.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Helpers.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Mvc.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Razor.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Step.Repository.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.DAL.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\AutoMapper.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.ValueTuple.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.BLL.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.BLL.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Autofac.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Autofac.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Autofac.Integration.Mvc.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\EntityFramework.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\LinqKit.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Razor.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Helpers.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.Web.Mvc.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Step.Repository.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Step.Repository.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.DAL.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\Shop.DAL.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\AutoMapper.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\AutoMapper.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\bin\System.ValueTuple.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csprojAssemblyReference.cache
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.csproj.CopyComplete
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.WebUI\obj\Debug\Shop.WebUI.pdb

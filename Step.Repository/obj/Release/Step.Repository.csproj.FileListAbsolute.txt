@@ -1,0 +1,11 @@
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\bin\Release\Step.Repository.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\bin\Release\Step.Repository.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\bin\Release\Step.Repository.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\bin\Release\EntityFramework.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\bin\Release\EntityFramework.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\obj\Release\Step.Repository.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\obj\Release\Step.Repository.csproj.CopyComplete
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\obj\Release\Step.Repository.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Step.Repository\obj\Release\Step.Repository.pdb

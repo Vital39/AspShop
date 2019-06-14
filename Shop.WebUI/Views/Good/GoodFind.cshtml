@@ -1,0 +1,79 @@
+﻿@using Shop.WebUI.Models
+@model VmGoodFind
+
+
+@{
+    ViewBag.Title = "GoodFind";
+}
+<style>
+
+    .mywidth {
+        width : 100% !important;
+        
+    }
+
+</style>
+<h2>Goods Find</h2>
+@using (Html.BeginForm())
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+
+                <div class="container-fluid">
+                    <div class="row">
+                        Manufacturer
+                        <div class="col-sm-12">
+                            @for (int i = 0; i < Model.ManufacturerSelects.Count; i++)
+                            {
+                                <div>
+                                    @Html.HiddenFor(x => Model.ManufacturerSelects[i].ManufacturerId)
+                                    @Html.CheckBoxFor(x => Model.ManufacturerSelects[i].IsCheck)
+                                    @Html.DisplayFor(x => Model.ManufacturerSelects[i].ManufacturerName)
+                                    @Html.HiddenFor(x => Model.ManufacturerSelects[i].ManufacturerName)
+                                </div>
+                            }
+
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        Category
+                        <div class="col-sm-12">
+                            @for (int i = 0; i < Model.CategorySelects.Count; i++)
+                            {
+                                <div>
+                                    @Html.HiddenFor(x => Model.CategorySelects[i].CategoryId)
+                                    @Html.CheckBoxFor(x => Model.CategorySelects[i].IsCheck)
+                                    @Html.DisplayFor(x => Model.CategorySelects[i].CategoryName)
+                                    @Html.HiddenFor(x => Model.CategorySelects[i].CategoryName)
+                                </div>
+                            }
+
+
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="col-sm-9">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            @Html.EditorFor(t => t.GoodName, new { htmlAttributes = new { @class = "form-control w-100" } } )
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div id="goods" class="col-sm-12">
+
+                        </div>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+}

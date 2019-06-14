@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Upload";
+}
+
+<h2>Upload Photo Goods</h2>
+
+@using (Html.BeginForm("Upload", "Photo", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <input type="text" name="id" value="@ViewBag.GoodId" hidden />
+    <input type="file" name="fileUploadMulti" multiple /><br />
+    <input type="submit" name="Submit" id="SubmitSingle" value="Upload" />
+}

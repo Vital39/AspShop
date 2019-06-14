@@ -1,0 +1,28 @@
+Tasks:
+
+
+
+https://www.hackerrank.com/challenges/circular-array-rotation/problem
+https://www.hackerrank.com/challenges/non-divisible-subset/problem
+https://www.hackerrank.com/challenges/queens-attack-2/problem
+https://www.hackerrank.com/challenges/bigger-is-greater/problem
+https://www.hackerrank.com/challenges/cavity-map/problem
+https://www.hackerrank.com/challenges/pangrams/problem
+Ѕлок два
+https://www.hackerrank.com/challenges/priyanka-and-toys/problem
+https://www.hackerrank.com/challenges/jim-and-the-orders/problem
+https://www.hackerrank.com/challenges/torque-and-development/problem
+https://www.hackerrank.com/challenges/alternating-characters/problem
+
+https://www.hackerrank.com/challenges/abbr/problem
+https://www.hackerrank.com/challenges/coin-change/problem
+https://www.hackerrank.com/challenges/team-formation/problem
+https://www.hackerrank.com/challenges/chief-hopper/problem
+https://www.hackerrank.com/challenges/police-operation/problem
+https://www.hackerrank.com/challenges/tree-pruning/problem
+https://www.hackerrank.com/challenges/kundu-and-tree/problem
+Ѕлок три
+https://www.hackerrank.com/challenges/draw-the-triangle-1/problem
+https://www.hackerrank.com/challenges/what-type-of-triangle/problem
+https://www.hackerrank.com/challenges/symmetric-pairs/problem
+https://www.hackerrank.com/challenges/draw-the-triangle-2/problem

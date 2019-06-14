@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Shop.BLL.Models.PhotoDTO>
+@{
+    ViewBag.Title = "PhotoList";
+}
+
+<h2>@ViewBag.GoodInfo</h2>
+<div>
+    @Html.ActionLink("Add Photo", "Upload", new { id = ViewBag.GoodId }, new { @class = "btn-sm btn-warning" })
+</div>
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4 col-sm-6 col-xs-12">
+                <hr />
+                <img src="@item.PhotoPath" height="200" />
+                <hr />
+                <a href="#" class="btn btn-danger btn-sm btndel-photo"
+                   data-photoid="@item.PhotoId">
+                    Delete Photo
+                </a>
+            </div>
+        }
+    </div>
+</div>
+
+
+@section MyScript
+{
+    <script type="text/javascript">
+
+        $(function () {
+
+            $('.btndel-photo').click(function (e) {
+                var id = $(this).attr('data-photoid');
+                e.preventDefault();
+                if (confirm('Are you sure?')) {
+                    $.ajax({
+                        url: "@Url.Action("Delete", "Photo")",
+                        type: 'POST',
+                        data: { id: id },
+                        success: function (data) {
+                            if (data == "OK") {
+                                window.location.href = "@Url.Action("PhotoList", "Photo")";
+                            }
+                            else
+                                alert("Error on server");
+                        },
+                        error: function (data) {
+                            alert(data);
+                        }
+                    });
+                }
+
+            });
+
+
+        });
+
+    </script>
+}

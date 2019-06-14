@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Загрузка одного файла</h2>
+
+<p>
+    @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new { id = "myform", enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="fileUpload" /><br />
+        <input type="submit" name="Submit" id="SubmitSingle" value="Upload" />
+    }
+</p>
+
+
+
+<h2>Загрузка одного файла</h2>
+
+<p>
+    @using (Html.BeginForm("UploadMulti", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <input type="file" name="fileUploadMulti" multiple /><br />
+        <input type="submit" name="Submit" id="SubmitSingle" value="Upload" />
+    }
+</p>
+

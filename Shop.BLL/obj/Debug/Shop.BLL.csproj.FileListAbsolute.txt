@@ -1,0 +1,105 @@
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Autofac.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Autofac.pdb
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\Autofac.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 19 shop 3 tier\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Autofac.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Autofac.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Autofac.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\asp.net\Lesson 18 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Autofac.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Autofac.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\Autofac.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\asp.net\asp.net mvc 2019\Lesson 19 shop 3-tier fileupload\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Shop.BLL.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Autofac.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\System.ValueTuple.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Shop.DAL.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Step.Repository.dll.config
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Autofac.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\Autofac.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.pdb
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\AutoMapper.Extensions.ExpressionMapping.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\bin\Debug\System.ValueTuple.xml
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csprojAssemblyReference.cache
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.csproj.CopyComplete
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.dll
+C:\Users\student.LAN\Desktop\Shop19p29\Shop.BLL\obj\Debug\Shop.BLL.pdb
